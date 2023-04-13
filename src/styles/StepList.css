@@ -1,0 +1,11 @@
+.step-list{
+    box-sizing: border-box;
+    height: 90vh;
+    width: 40vw;
+    background-repeat: no-repeat;
+    background-image: url("../assets/images/bg-sidebar-desktop.svg");
+    background-size: contain;
+    padding-top: 50px;
+    padding-left: 50px;
+    
+}
