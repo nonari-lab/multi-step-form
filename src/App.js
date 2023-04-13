@@ -1,7 +1,10 @@
 import React from "react";
+import StepList from "./components/StepList";
 
 function App(){
-    return <div>my app</div>
+    return (
+        <StepList/>
+    )
 }
 
 export default App;
